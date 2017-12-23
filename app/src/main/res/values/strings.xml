@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerViewKotlin</string>
+  <string name="dummy_description">
+    OS Description will come here at this place.
+    This will be multiline text and has all the new features released information.
+    This is added to check the animation effect when layout containing this text gets
+    visible or hidden.</string>
+  <string name="os_icon">Android OS Image</string>
+</resources>
